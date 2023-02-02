@@ -1,0 +1,37 @@
+html {
+    background: darkturquoise;
+}
+
+h1 {
+    color: white;
+    background: teal;
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 2;
+}
+
+
+
+#signup {
+    background-color: blueviolet;
+}
+
+#signup:hover {
+    background-color: blue;
+}
+
+.lista li {
+    color: red;
+}
+
+p::first-letter {
+    font-size: 40px;
+}
